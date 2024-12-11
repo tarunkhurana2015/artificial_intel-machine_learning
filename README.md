@@ -188,4 +188,24 @@ EDA is a significant step to take before diving into statistical modeling or mac
   ### Reinforcement Learning
   Learning from interactions like human learning.Reinforcement Learning builds a prediction model by gaining feedback from random trail and error and leveraging insight from previous iteractions.
   
+## Generative AI
+![image](https://github.com/user-attachments/assets/b69ad79e-4c9a-4d4d-8e5c-4c9c39c95005)
+
+### Deep Learning Architecture
+![image](https://github.com/user-attachments/assets/526ae342-c603-4059-b4b6-8471fc5b52bb)
+
+![image](https://github.com/user-attachments/assets/31caadc0-7748-4b5c-b4c6-29d442131be9)
+
+![image](https://github.com/user-attachments/assets/c8f812a8-c4ba-4a9b-90f3-96c94880c661)
+
+#### Large Language Models (LLMs)
+![image](https://github.com/user-attachments/assets/cbc74900-bcfb-47ea-9f51-0e167f900feb)
+
+![image](https://github.com/user-attachments/assets/ce3ee814-1e61-422c-bf23-c26fd2835e36)
+
+#### Tokenization
+![image](https://github.com/user-attachments/assets/29995f7a-51a3-419f-8ec6-594339370462)
+
+![image](https://github.com/user-attachments/assets/ef66d487-9b53-4613-91b7-78e2a6e3ad62)
+
 
