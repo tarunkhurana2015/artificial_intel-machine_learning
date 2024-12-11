@@ -162,5 +162,30 @@ EDA is a significant step to take before diving into statistical modeling or mac
 
   **Under Fitting** - The trained model is not working well on the training data and can't generalize to new data.
   **Over Fitting** - the trained model is working very well on the training data and can't generalize well to the new data.
+
+  ## Classification of ML Systems
+  
+  ### supervied Learning
+  ![image](https://github.com/user-attachments/assets/917d62f5-6e7a-4301-bee0-daa1e08b5744)
+
+  **classification** - classifing the data into binary output to identifing multiple calssifications.(SVM - Support Vector Machines algorithm)
+  **regression** - statistical methods of estimating the strength of the relationship between a depedendent variable and one of more independent variables.
+    Linear Regression - Y = F (x1, x2,..xn)
+    Logistic Regression - 
+    Plynomial Regression - 
+  
+  ### unsupervided Learning
+
+  **Clustering** - Clustering is the task of identifying similar instances with shared attributes in a dataset and group them together into clusters. the output of the algorithm would be a set of labels assigning each data point to one of the identified clusters.
+  Customer Segmentation
+  Anomaly/ Outlier Detection
+  Semi-supervised Learning
+  
+  **Dimension Reduction** - 
+  ![image](https://github.com/user-attachments/assets/7f40c74d-e04b-4d67-b37b-1e7f3651ef3e)
+
+  
+  ### Reinforcement Learning
+  Learning from interactions like human learning.Reinforcement Learning builds a prediction model by gaining feedback from random trail and error and leveraging insight from previous iteractions.
   
 
