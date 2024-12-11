@@ -158,4 +158,9 @@ EDA is a significant step to take before diving into statistical modeling or mac
               - [ ] Polynomial Pregression
           - [ ] Regularization (Ridge, Lasso, Elastic Net)
 
-    
+  ![image](https://github.com/user-attachments/assets/d8998278-339f-4560-b717-fee0ee211f2a)
+
+  **Under Fitting** - The trained model is not working well on the training data and can't generalize to new data.
+  **Over Fitting** - the trained model is working very well on the training data and can't generalize well to the new data.
+  
+
